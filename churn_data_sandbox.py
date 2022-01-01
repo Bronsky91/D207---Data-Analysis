@@ -1,1 +1,0 @@
-import pandas as pdimport matplotlib.pyplot as plt# Raw Data to DataFramedf = pd.read_csv('churn_clean.csv', encoding='utf-8')df.info()
